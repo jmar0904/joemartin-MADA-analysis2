@@ -11,7 +11,7 @@ library(here) #to set paths
 
 #path to data
 #note the use of the here() package and not absolute paths
-data_location <- here::here("data","raw_data","exampledata.xlsx")
+data_location <- here::here("data","raw_data","Impaired_Driving_Death_Rate__by_Age_and_Gender__2012___2014__All_States.xlsx")
 
 #load data. 
 #note that for functions that come from specific packages (instead of base R)
