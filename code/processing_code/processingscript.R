@@ -6,12 +6,16 @@
 
 #load needed packages. make sure they are installed.
 library(readxl) #for loading Excel files
+library(tidyverse) #for data tidying
 library(dplyr) #for data processing
 library(here) #to set paths
 
 #path to data
 #note the use of the here() package and not absolute paths
-data_location <- here::here("data","raw_data","Impaired_Driving_Death_Rate__by_Age_and_Gender__2012___2014__All_States.xlsx")
+
+# Dataset title: Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, All States
+# columns except for first two are death rate per 100,000 population
+data_location <- here::here("data","raw_data","Active_Bacterial_Core_surveillance__ABCs__Group_B_Streptococcus.csv")
 
 #load data. 
 #note that for functions that come from specific packages (instead of base R)
@@ -19,7 +23,7 @@ data_location <- here::here("data","raw_data","Impaired_Driving_Death_Rate__by_A
 #package::function() that's not required one could just call the function
 #specifying the package makes it clearer where the function "lives",
 #but it adds typing. You can do it either way.
-rawdata <- readxl::read_excel(data_location)
+rawdata <- read.csv(data_location)
 
 #take a look at the data
 dplyr::glimpse(rawdata)
@@ -47,9 +51,33 @@ print(rawdata)
 # this is one way of doing it. Note that if the data gets updated, 
 # we need to decide if the thresholds are ok (newborns could be <50)
 
-processeddata <- rawdata %>% dplyr::filter( Height != "sixty" ) %>% 
+#processeddata <- rawdata %>% dplyr::filter( Height != "sixty" ) %>% 
                              dplyr::mutate(Height = as.numeric(Height)) %>% 
                              dplyr::filter(Height > 50 & Weight < 1000)
+
+summary(rawdata)
+
+# All data in this variable is the same, but there are two different names. 
+## Convert all to group B Streptococcus
+rawdata$Bacteria[rawdata$Bacteria == "Group B Streptococcus"] <- "group B Streptococcus"
+
+# Convert variables Units, Topic, ViewBy, and ViewBy2 from Character to Factor
+## This will turn them into categorical variables, rather than characters string data
+rawdata$Units <- as.factor(rawdata$Units)
+rawdata$Topic <- as.factor(rawdata$Topic)
+rawdata$ViewBy <- as.factor(rawdata$ViewBy)
+rawdata$ViewBy2 <- as.factor(rawdata$ViewBy2)
+
+# Fix factor names in Topic
+rawdata$Topic <- fct_recode(rawdata$Topic, `Death Rates` = "Death rates")
+
+summary(rawdata)
+
+# Focus on working with serotypes in this dataset
+processeddata <- rawdata %>% 
+                 filter(Topic == "Serotypes") %>%
+                 filter(Units == "Percent") %>%
+                 drop_na()
 
 # save data as RDS
 # I suggest you save your processed and cleaned data as RDS or RDA/Rdata files. 
