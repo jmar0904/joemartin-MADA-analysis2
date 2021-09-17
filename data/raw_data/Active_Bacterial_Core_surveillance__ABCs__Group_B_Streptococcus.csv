@@ -103,11 +103,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+1998,0,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
 1998,15700,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 1998,1700,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 1998,17400,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -183,15 +183,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 1998,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 1998,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 1998,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-1998,0,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
 1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
 1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
 1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
 1998,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+1999,137,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+1999,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+1999,4.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+1999,17.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+1999,13.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
 1998,80.9,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 1998,9.6,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 1998,7.9,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -218,11 +218,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+1999,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+1999,29.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+1999,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+1999,13.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2000,139,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
 1999,15000,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 1999,1800,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 1999,16800,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -298,15 +298,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 1999,23.5,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 1999,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 1999,4.7,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-1999,137,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-1999,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-1999,4.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-1999,17.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-1999,13.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-1999,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-1999,29.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-1999,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-1999,13.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2000,19.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2000,5.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2000,13.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2000,12.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2000,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2000,35.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2000,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2000,12.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2001,265,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
 1999,82.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 1999,12,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 1999,5.1,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -333,11 +333,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 1999,12.1,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-1999,9.524,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-1999,23.81,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2001,24.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2001,9.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2001,9.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2001,6.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2001,1.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
 2000,16800,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2000,1900,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2000,18700,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -413,15 +413,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2000,25.7,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2000,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2000,10.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2000,139,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2000,19.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2000,5.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2000,13.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2000,12.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2000,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2000,35.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2000,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2000,12.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2001,37.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2001,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2001,10.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2002,284,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2002,14.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2002,7.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2002,10.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2002,10.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2002,3.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
 2000,82.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2000,8.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2000,6.7,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -448,11 +448,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2000,22.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2000,15,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2000,20,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2002,40.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2002,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2002,12.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2003,444,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2003,21.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
 2001,17575,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2001,2000,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2001,19575,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -528,15 +528,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2001,28.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2001,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2001,9.6,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2001,265,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2001,24.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2001,9.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2001,9.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2001,6.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2001,1.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2001,37.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2001,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2001,10.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2003,7.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2003,9.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2003,15.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2003,2.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2003,36.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2003,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2003,7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2004,438,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2004,25.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
 2001,79.8,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2001,10.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2001,7.8,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -563,11 +563,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2001,24.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2001,13.298,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2001,27.128,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2004,7.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2004,11.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2004,8.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2004,2.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2004,37.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
 2002,18250,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2002,2050,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2002,20300,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -643,15 +643,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2002,28.6,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2002,1.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2002,11.4,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2002,284,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2002,14.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2002,7.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2002,10.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2002,10.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2002,3.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2002,40.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2002,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2002,12.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2004,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2004,7.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2005,515,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2005,24.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2005,9.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2005,13.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2005,13.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2005,3.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2005,28.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
 2002,79.9,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2002,12.1,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2002,6.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -678,11 +678,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2002,33.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2002,14.286,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2002,27.444,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2005,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2005,7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2006,443,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2006,23.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2006,8.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
 2003,18200,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2003,2175,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2003,20375,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -758,15 +758,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2003,26.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2003,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2003,8.8,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2003,444,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2003,21.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2003,7.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2003,9.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2003,15.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2003,2.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2003,36.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2003,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2003,7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2006,14.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2006,9.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2006,4.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2006,34.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2006,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2006,5.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2007,407,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2007,25.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2007,10.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
 2003,77.1,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2003,11.5,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2003,5.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -793,11 +793,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2003,38.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2003,12.955,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2003,30,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2007,10.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2007,17.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2007,5.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2007,29.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2007,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
 2004,18595,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2004,1780,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2004,20375,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -873,15 +873,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2004,33,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2004,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2004,6.1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2004,438,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2004,25.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2004,7.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2004,11.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2004,8.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2004,2.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2004,37.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2004,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2004,7.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2007,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2008,499,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2008,25.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2008,10.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2008,14.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2008,12.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2008,5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2008,31.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2008,0.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
 2004,81.7,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2004,8,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2004,6.9,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -908,11 +908,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2004,43.6,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2004,18.078,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2004,35.927,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2008,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2009,551,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2009,27.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2009,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2009,10.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
 2005,19750,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2005,1750,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2005,21500,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -988,15 +988,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2005,26.6,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2005,0.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2005,7.6,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2005,515,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2005,24.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2005,9.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2005,13.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2005,13.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2005,3.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2005,28.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2005,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2005,7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2009,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2009,4.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2009,32.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2009,0.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2009,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2010,514,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2010,26.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2010,16,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2010,13.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
 2005,64.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2005,5.8,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2005,7.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1023,11 +1023,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2005,40,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2005,18.254,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2005,35.516,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2010,11.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2010,5.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2010,25.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2010,1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2010,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
 2006,19700,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2006,1700,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2006,21400,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1103,15 +1103,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2006,27.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2006,0.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2006,4.1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2006,443,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2006,23.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2006,8.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2006,14.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2006,9.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2006,4.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2006,34.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2006,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2006,5.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2011,689,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2011,25,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2011,15.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2011,13.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2011,11.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2011,5.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2011,26.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2011,1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2011,0.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
 2006,65.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2006,10.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2006,7.8,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1139,11 +1139,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2006,41.6,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2006,23,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2006,42.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2012,744,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2012,26.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2012,13.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2012,16.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2012,11.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
 2007,18525,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2007,1475,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2007,20000,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1219,15 +1219,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2007,30.4,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2007,0.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2007,0.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2007,407,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2007,25.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2007,10.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2007,10.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2007,17.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2007,5.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2007,29.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2007,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2007,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2012,9.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2012,22.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2012,0.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2012,0.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2013,686,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2013,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2013,15.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2013,14.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2013,12.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
 2007,69.6,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2007,5.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2007,9.7,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1255,11 +1255,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2007,48.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2007,24.6,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2007,45.813,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2013,12,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2013,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2013,1.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2013,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2014,848,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
 2008,20900,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2008,1600,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2008,22500,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1335,15 +1335,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2008,26.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2008,0.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2008,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2008,499,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2008,25.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2008,10.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2008,14.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2008,12.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2008,5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2008,31.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2008,0.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2008,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2014,23.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2014,17.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2014,13.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2014,12.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2014,9.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2014,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2014,1.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2014,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2015,851,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
 2008,73.5,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2008,4.9,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2008,7.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1371,11 +1371,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2008,46.6,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2008,26.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2008,50.902,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2015,21.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2015,15.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2015,16.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2015,13.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2015,9.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
 2009,22450,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2009,1850,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2009,24300,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1451,15 +1451,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2009,28.4,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2009,1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2009,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2009,551,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2009,27.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2009,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2009,10.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2009,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2009,4.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2009,32.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2009,0.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2009,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2015,22.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2015,0.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2015,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2016,965,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2016,24.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2016,16.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2016,16,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2016,12.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2016,10.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
 2009,85.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2009,6.7,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2009,6.7,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1487,11 +1487,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2009,53.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2009,28.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2009,45.735,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2016,18.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2016,2.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2016,0.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2017,993,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2017,21.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
 2010,23050,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2010,1650,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2010,24700,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1567,15 +1567,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2010,25.7,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2010,0.9,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2010,0,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2010,514,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2010,26.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2010,16,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2010,13.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2010,11.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2010,5.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2010,25.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2010,1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2010,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2017,15,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2017,18.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2017,12.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2017,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2017,18.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
+2017,1.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2017,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2018,1016,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2018,22.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
 2010,85.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2010,4.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2010,10.1,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1603,11 +1603,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2010,51.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2010,26.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2010,45.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2018,15.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2018,17.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2018,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2018,14.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2018,15.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
 2011,25035,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2011,1575,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2011,26610,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1683,15 +1683,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2011,19.9,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2011,0.6,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2011,0.5,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2011,689,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2011,25,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2011,15.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2011,13.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2011,11.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2011,5.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2011,26.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2011,1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2011,0.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2018,1.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2018,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2019,1032,Counts,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
+2019,22.9,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
+2019,15.7,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
+2019,17,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
+2019,11.4,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
+2019,13.2,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
+2019,17.2,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
 2011,78.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2011,8.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2011,11.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1719,11 +1719,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2011,50.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2011,38.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2011,50.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2019,2.4,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
+2019,0,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
 2012,25825,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2012,1865,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2012,27690,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1799,15 +1799,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2012,20.7,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2012,1.1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2012,0.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2012,744,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2012,26.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2012,13.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2012,16.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2012,11.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2012,9.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2012,22.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2012,0.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2012,0.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+1997,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+1998,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+1999,9.524,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
 2012,76.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2012,5.6,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2012,15.9,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1835,11 +1835,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2012,58.3,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2012,41.4,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2012,55.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+1999,23.81,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+1999,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2000,15,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
 2013,27170,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2013,1730,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2013,28900,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -1915,15 +1915,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2013,22.8,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2013,0.7,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2013,0.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2013,686,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2013,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2013,15.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2013,14.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2013,12.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2013,12,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2013,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2013,1.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2013,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2000,20,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2000,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2001,13.298,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2001,27.128,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2001,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
 2013,84.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2013,4.1,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2013,8.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -1951,11 +1951,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2013,53.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2013,45,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2013,55.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2002,14.286,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2002,27.444,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2002,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
 2014,26415,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2014,1650,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2014,28065,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -2031,15 +2031,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2014,17.8,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2014,1.1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2014,0.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2014,848,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2014,23.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2014,17.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2014,13.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2014,12.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2014,9.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2014,21.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2014,1.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2014,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2003,12.955,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2003,30,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2003,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2004,18.078,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2004,35.927,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2004,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
 2014,82.2,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2014,5.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2014,9.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -2067,11 +2067,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2014,54.2,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2014,42.1,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2014,54.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2005,18.254,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2005,35.516,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2005,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
 2015,26850,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2015,1800,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2015,28650,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -2147,15 +2147,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2015,18.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2015,1.2,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2015,0.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2015,851,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2015,21.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2015,15.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2015,16.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2015,13.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2015,9.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2015,22.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2015,0.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2015,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2006,23,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2006,42.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2006,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2007,24.6,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2007,45.813,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
 2015,85.1,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2015,3.5,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2015,11.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -2183,11 +2183,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2015,57,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2015,41.1,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2015,52.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2007,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2008,26.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2008,50.902,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
 2016,29100,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2016,1700,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2016,30800,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -2263,15 +2263,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2016,18.6,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2016,1.8,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2016,0.1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2016,965,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2016,24.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2016,16.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2016,16,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2016,12.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2016,10.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2016,18.3,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2016,2.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2016,0.1,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2008,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2009,28.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2009,45.735,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2009,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2010,26.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2010,45.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
 2016,84.6,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2016,4.8,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2016,6.7,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -2299,11 +2299,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2016,55.3,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2016,41.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2016,54.4,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2010,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2011,38.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2011,50.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
 2017,29820,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2017,2030,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2017,31850,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -2379,15 +2379,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2017,16.1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2017,1.7,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2017,0.3,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2017,993,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2017,21.5,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2017,15,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2017,18.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2017,12.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2017,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2017,18.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2017,1.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2017,0.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2011,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2012,41.4,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2012,55.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2012,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2013,45,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
 2017,73.3,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2017,4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2017,14.9,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -2415,11 +2415,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2017,56.6,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2017,47.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2017,57.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2013,55.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2013,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2014,42.1,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
 2018,30600,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of survivals
 2018,1800,Counts,group B Streptococcus,Number of cases and deaths,Overall,Number of deaths
 2018,32400,Counts,group B Streptococcus,Number of cases and deaths,Overall,Total cases
@@ -2495,15 +2495,15 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2018,16.7,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2018,1.8,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2018,0.1,Percent,group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2018,1016,Counts,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2018,22.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2018,15.8,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2018,17.7,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2018,12.2,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2018,14.6,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2018,15.4,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2018,1.9,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2018,0,Percent,group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2014,54.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2014,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2015,41.1,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2015,52.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2015,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
 2018,84.7,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia without focus
 2018,3.4,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Bacteremia with pnuemonia
 2018,6.8,Percent,group B Streptococcus,Syndromes,"Infants, early-onset disease",Meningitis
@@ -2531,11 +2531,11 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2018,62.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Erythromycin
 2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Penicillin
 2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, 18-64 years old",Vancomycin
-2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2018,44.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2018,54.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
+2016,41.7,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2016,54.4,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2016,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
 2019,57,"Per 100,000 population",Group B Streptococcus,Case rates,Age,<1 year old
 2019,0.7,"Per 100,000 population",Group B Streptococcus,Case rates,Age,1 year old
 2019,0.1,"Per 100,000 population",Group B Streptococcus,Case rates,Age,2-4 years old
@@ -2622,20 +2622,20 @@ Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
 2019,14.1,Percent,Group B Streptococcus,Serotypes,"Adults, 18-64 years old",V
 2019,2.2,Percent,Group B Streptococcus,Serotypes,"Adults, 18-64 years old","VI, VII, VIII or IX"
 2019,0,Percent,Group B Streptococcus,Serotypes,"Adults, 18-64 years old",Non-typeable
-2019,1032,Counts,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Number of isolates
-2019,46.1,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Clindamycin**
-2019,59.1,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Erythromycin
-2019,0,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Penicillin
-2019,0,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Cefotaxime
-2019,0,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥65 years old",Vancomycin
-2019,22.9,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ia
-2019,15.7,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Ib
-2019,17,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",II
-2019,11.4,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",III
-2019,13.2,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",IV
-2019,17.2,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",V
-2019,2.4,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old","VI, VII, VIII or IX"
-2019,0,Percent,Group B Streptococcus,Serotypes,"Adults, ≥ 65 years old",Non-typeable
+2017,47.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2017,57.5,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2017,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2018,44.9,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2018,54.8,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2018,0,Percent,group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
+2019,46.1,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Clindamycin**
+2019,59.1,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Erythromycin
+2019,0,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Penicillin
+2019,0,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Cefotaxime
+2019,0,Percent,Group B Streptococcus,Antibiotic resistance,"Adults, ≥ 65 years old",Vancomycin
 2019,0.2,"Per 1,000 live birth",Group B Streptococcus,Case rates,"Infants, early and late-onset",Early-onset
 2019,0.2,"Per 1,000 live birth",Group B Streptococcus,Case rates,"Early-onset, by race",Overall
 2019,0.34,"Per 1,000 live birth",Group B Streptococcus,Case rates,"Infants, early and late-onset",Late-onset

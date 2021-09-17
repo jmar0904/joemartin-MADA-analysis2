@@ -57,31 +57,67 @@ _To get some further insight into your data, if reasonable you could compute sim
 
 Table \@ref(tab:summarytable) shows a table summarizing the data.
 
-
 ```{r summarytable,  echo=FALSE}
 resulttable=readRDS("../../results/summarytable.rds")
 knitr::kable(resulttable, caption = 'Data summary table.')
 ```
 
 
-Figure \@ref(fig:resultfigure) shows a scatterplot figure produced by one of the R scripts.
+Figure \@ref(fig:resultfigure1) shows a scatterplot figure for the overall age category.
 
-```{r resultfigure,  fig.cap='Analysis figure.', echo=FALSE}
-knitr::include_graphics("../../results/resultfigure.png")
+```{r resultfigure1,  fig.cap='Analysis figure.', echo=FALSE}
+knitr::include_graphics("../../results/resultfigure1.png")
 ```
 
+Figure \@ref(fig:resultfigure2) shows a scatterplot figure for the infant age category.
+
+```{r resultfigure2,  fig.cap='Analysis figure.', echo=FALSE}
+knitr::include_graphics("../../results/resultfigure2.png")
+```
+
+Figure \@ref(fig:resultfigure3) shows a scatterplot figure for the adult age category.
+
+```{r resultfigure3,  fig.cap='Analysis figure.', echo=FALSE}
+knitr::include_graphics("../../results/resultfigure3.png")
+```
+
+Figure \@ref(fig:resultfigure4) shows a scatterplot figure for the older adults age category.
+
+```{r resultfigure4,  fig.cap='Analysis figure.', echo=FALSE}
+knitr::include_graphics("../../results/resultfigure4.png")
+```
 
 ## Full analysis
 
 _Use one or several suitable statistical/machine learning methods to analyze your data and to produce meaningful figures, tables, etc. This might again be code that is best placed in one or several separate R scripts that need to be well documented. You want the code to produce figures and data ready for display as tables, and save those. Then you load them here._
 
-Example table \@ref(tab:resulttable) shows a table summarizing a linear model fit.
+Example table \@ref(tab:resulttable1) shows a table summarizing a linear model fit for the overall age category.
 
-```{r resulttable,  echo=FALSE}
-resulttable=readRDS("../../results/resulttable.rds")
-knitr::kable(resulttable, caption = 'Linear model fit table.')
+```{r resulttable1,  echo=FALSE}
+resulttable1=readRDS("../../results/resulttable_overall.rds")
+knitr::kable(resulttable1, caption = 'Linear model fit table.')
 ```
 
+Example table \@ref(tab:resulttable2) shows a table summarizing a linear model fit for the infant early onset age category.
+
+```{r resulttable2,  echo=FALSE}
+resulttable2=readRDS("../../results/resulttable_infants.rds")
+knitr::kable(resulttable2, caption = 'Linear model fit table for Infants.')
+```
+
+Example table \@ref(tab:resulttable3) shows a table summarizing a linear model fit for the adult age category.
+
+```{r resulttable3,  echo=FALSE}
+resulttable3=readRDS("../../results/resulttable_adults.rds")
+knitr::kable(resulttable3, caption = 'Linear model fit table for Adults.')
+```
+
+Example table \@ref(tab:resulttable4) shows a table summarizing a linear model fit for the older adult age category.
+
+```{r resulttable4,  echo=FALSE}
+resulttable4=readRDS("../../results/resulttable_olderadults.rds")
+knitr::kable(resulttable4, caption = 'Linear model fit table for Older Adults.')
+```
 
 # Discussion
 
